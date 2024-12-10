@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Rajput</h1>
-<h3 align="center">A passionate frontend developer/Machine Learner engineer from India</h3>
+<h3 align="center">A passionate Software developer/Front End Developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **ReactJs, Python, JavaScript, CSS, HTML**
+- 💬 Ask me about **ReactJs, Python, Java, JavaScript, CSS, HTML**
 
 - 📫 How to reach me **rpvishal121@gmail.com**
 
